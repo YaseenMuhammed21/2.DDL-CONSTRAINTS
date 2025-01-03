@@ -1,4 +1,5 @@
-# DDL CONSTRAINTS
+#
+    DDL CONSTRAINTS
 ## This is the assignment done to understanding the use of DDL Constraints
 
 Where we have done performed the command CREATE,ALTER, SELECT, UPDATE, DROP, SET, INSERT and the constraints NULL, PRIMARY_KEY and UNIQUE
